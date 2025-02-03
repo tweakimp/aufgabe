@@ -1,0 +1,13 @@
+Bewerberaufgabe
+Aufgabenformulierung:
+•	Grob: 
+o	Berechne je Artikelnummer rohertragsoptimierte Preise
+•	Detail:
+1. Modelliere iterativ je Artikelnummer eine PAF 
+2. Wie kann man das Problem lösen, dass lineare PAF keine konstante Preiselastizität haben?
+3. Gestalte dein Programmcode generisch und selbst evaluierend, um theoretisch über eine große Anzahl an Artikel zu iterieren
+4. Gestalte die Ausprägungen der x-Achse (Preis) und y-Achse (Menge) so, dass die PAF-Modellierung ebenfalls auf dem Einzelartikel höher gelagerten Ebenen möglich ist
+5. Wie kann man aus der PAF rohertragsoptimierende Preise berechnen?
+•	Definitionen:
+o	Rohertrag = VK – EK
+o	Handelsspanne = Rohertrag / VK oder 1 – EK/VK
